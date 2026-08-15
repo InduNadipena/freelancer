@@ -1,0 +1,9 @@
+{
+  "course": "Java Programming",
+  "weeks": 8,
+  "topics": [
+    "OOP",
+    "Collections",
+    "Exceptions"
+  ]
+}

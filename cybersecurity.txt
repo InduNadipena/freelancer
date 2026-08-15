@@ -1,0 +1,3 @@
+Cybersecurity Basics
+
+Cybersecurity protects systems and data from unauthorized access. Strong passwords, multi-factor authentication, updates and backups are important security practices.
